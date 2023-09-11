@@ -1,0 +1,4 @@
+pyparsing
+mortardata
+pyarrow
+pandas[performance]>=2.0
